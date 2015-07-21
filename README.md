@@ -9,7 +9,7 @@ Some important commands with github:
 
 - delete a file
    - git rm <filename>
-   - commi the delete: git commit -m "remove <filename>"
+   - commit the delete: git commit -m "remove <filename>"
    - push: git push
 
 - delete a sub-directory: git rm -rf <foldername>
