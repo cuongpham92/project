@@ -1,4 +1,4 @@
-Important commands with github:
+Some important commands with github:
 - add: git add .
 
 - commit: git commit -a -m "message"
