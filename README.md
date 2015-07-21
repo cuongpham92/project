@@ -1,7 +1,9 @@
 Some important commands with github:
 - add: git add .
 
-- commit: git commit -a -m "message"
+- commit: 
+   +) commit with message: git commit -a -m "message"
+   +) commit with no message: git commit <filename> --allow-empty-message -m ''
 
 - push: git push
 
@@ -11,3 +13,6 @@ Some important commands with github:
    +) push: git push
 
 - delete a sub-directory: git rm -rf <foldername>
+
+- change a commit message:
+   +) commit has not been pushed online: 
