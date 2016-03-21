@@ -11,3 +11,7 @@ Some important commands with github:
  
 
 - delete a sub-directory: git rm -rf foldername
+
+- change remote origin url: https://help.github.com/articles/changing-a-remote-s-url/
+
+- show logs (recent commits) in git central repository: git log
